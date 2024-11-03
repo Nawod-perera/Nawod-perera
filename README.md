@@ -8,9 +8,8 @@
 
 ---
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **Data Science** and **Advanced JavaScript**
-- 💬 Ask me about **Frontend Development**, **UI/UX Design**, and **Project Management**
+- 🌱 I’m currently learning **Data Science**
+- 💬 Ask me about **Frontend Development**, and **Project Management**
 - 📫 Reach me at **nawodsandakalum.lk@gmail.com**
 - ⚡ Fun fact: **You can call me Nawod!**
 - 🌐 Pronouns: **he/him**
@@ -107,8 +106,3 @@
 
 ---
 
-### 🔥 Featured Projects
-- **[Project 1: Cineplex Cinema Web System](https://github.com/Nawod-perera/yourprojectlink)**  
-  A comprehensive system for booking and managing cinema experiences, including real-time seat booking and user feedback.
-- **[Project 2: Personal Portfolio Website](https://github.com/Nawod-perera/yourprojectlink)**  
-  Showcasing my skills and projects with a focus on responsive design and clean UI.

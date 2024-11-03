@@ -1,8 +1,9 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Nawod Sandakalum</h1>
 <h3 align="center">A passionate Software Engineering and Computing student specializing in full-stack development</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nawod-sandakalum&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nawod-perera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -12,6 +13,7 @@
 - 💬 Ask me about **Frontend Development**, **UI/UX Design**, and **Project Management**
 - 📫 Reach me at **nawodsandakalum.lk@gmail.com**
 - ⚡ Fun fact: **You can call me Nawod!**
+- 🌐 Pronouns: **he/him**
 
 ---
 
@@ -24,16 +26,16 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawod-sandakalum&show_icons=true&theme=radical" alt="Nawod's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nawod-perera&show_icons=true&theme=radical" alt="Nawod's GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nawod-sandakalum&theme=radical" alt="Nawod's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nawod-perera&theme=radical" alt="Nawod's GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawod-sandakalum&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawod-perera&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nawod-sandakalum&theme=radical" alt="Nawod's GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nawod-perera&theme=radical" alt="Nawod's GitHub Profile Summary"/>
 </p>
 
 ---
@@ -54,7 +56,7 @@
 ---
 
 ### 🔥 Featured Projects
-- **[Project 1: Cineplex Cinema Web System](https://github.com/yourprojectlink)**  
+- **[Project 1: Cineplex Cinema Web System](https://github.com/Nawod-perera/yourprojectlink)**  
   A comprehensive system for booking and managing cinema experiences, including real-time seat booking and user feedback.
-- **[Project 2: Personal Portfolio Website](https://github.com/yourprojectlink)**  
+- **[Project 2: Personal Portfolio Website](https://github.com/Nawod-perera/yourprojectlink)**  
   Showcasing my skills and projects with a focus on responsive design and clean UI.
